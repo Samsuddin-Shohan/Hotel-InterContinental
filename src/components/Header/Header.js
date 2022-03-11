@@ -24,8 +24,8 @@ const Header = () => {
                 </ul>
             </nav>
             <div className="title-container">
-                <h1>Burj Al Arab</h1>
-                <h2>A global icon of Arabian luxury</h2>
+                <h1>Hotel InterContinental</h1>
+                <h2>Best Asian luxary</h2>
             </div>
         </div>
     );
